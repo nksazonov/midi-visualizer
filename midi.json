@@ -1,0 +1,7232 @@
+{
+  "header": { "formatType": 1, "trackCount": 18, "ticksPerBeat": 480 },
+  "tracks": [
+    [
+      { "deltaTime": 0, "type": "meta", "subtype": "trackName", "text": "" },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "copyrightNotice",
+        "text": "Copyright (C) 2011 "
+      },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "yTCg¼z URL"
+      },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "setTempo",
+        "microsecondsPerBeat": 500000
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "marker", "text": "Setup" },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "timeSignature",
+        "numerator": 4,
+        "denominator": 4,
+        "metronome": 24,
+        "thirtyseconds": 8
+      },
+      {
+        "deltaTime": 240,
+        "type": "meta",
+        "subtype": "setTempo",
+        "microsecondsPerBeat": 500000
+      },
+      {
+        "deltaTime": 1680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      {
+        "deltaTime": 7680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      {
+        "deltaTime": 7680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      {
+        "deltaTime": 7680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      {
+        "deltaTime": 7680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      {
+        "deltaTime": 7680,
+        "type": "meta",
+        "subtype": "marker",
+        "text": "Start"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "System Setup"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- Reset --------------------------------------------------"
+      },
+      { "deltaTime": 0, "type": "sysEx", "data": [126, 127, 9, 1, 247] },
+      {
+        "deltaTime": 60,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 0, 127, 0, 65, 247]
+      },
+      {
+        "deltaTime": 60,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- SÌÝè --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "sysEx",
+        "data": [127, 127, 4, 1, 0, 127, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- Drum ÇÁ --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 17, 21, 0, 26, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 18, 21, 0, 25, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 19, 21, 0, 24, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 20, 21, 0, 23, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 21, 21, 0, 22, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 22, 21, 0, 21, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 23, 21, 0, 20, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 24, 21, 0, 19, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 25, 21, 0, 18, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 16, 21, 1, 26, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 26, 21, 0, 17, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 27, 21, 0, 16, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 28, 21, 0, 15, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 29, 21, 0, 14, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 30, 21, 0, 13, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "sysEx",
+        "data": [65, 16, 66, 18, 64, 31, 21, 0, 12, 247]
+      },
+      {
+        "deltaTime": 4,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 22,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- Layer --------------------------------------------------"
+      },
+      {
+        "deltaTime": 28,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of System Setup --------------------------------------------------"
+      },
+      { "deltaTime": 2, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH01"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 8
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "programChange",
+        "value": 4
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 14
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 1710,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 0,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH03"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 8
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "programChange",
+        "value": 4
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 125
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "pitchBend",
+        "value": 8292
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 1730,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 60,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 59,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 59,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 57,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 57,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 55,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 53,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOn",
+        "noteNumber": 64,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1920,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 53,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 2,
+        "subtype": "noteOff",
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH02"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "programChange",
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 60
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 1710,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 71,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1890,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 71,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 30,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 72,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1935,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 72,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 1905,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 74,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 960,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 69,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 51,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 74,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 909,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 67,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 96,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 69,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 3765,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 3819,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 71,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1890,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 71,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 30,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 72,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1935,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 72,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 1905,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 74,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 960,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 69,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 51,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 74,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 909,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 67,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 96,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 69,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 3765,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 3819,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 71,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1890,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 71,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 30,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 72,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 1935,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 72,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 1905,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 74,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 960,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 69,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 51,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 74,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 909,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOn",
+        "noteNumber": 67,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 96,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 69,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 3765,
+        "type": "channel",
+        "channel": 1,
+        "subtype": "noteOff",
+        "noteNumber": 67,
+        "velocity": 0
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH04"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 3,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH05"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 4,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH06"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 5,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH07"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 6,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH08"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 7,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH09"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 8,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH10"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 1710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 51,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 51,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 950,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 230,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 470,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 36,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 710,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOn",
+        "noteNumber": 37,
+        "velocity": 100
+      },
+      {
+        "deltaTime": 10,
+        "type": "channel",
+        "channel": 9,
+        "subtype": "noteOff",
+        "noteNumber": 37,
+        "velocity": 0
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH11"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 10,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH12"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 11,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH13"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 12,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH14"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 13,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH15"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 14,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "trackName",
+        "text": "CH16"
+      },
+      { "deltaTime": 0, "type": "meta", "subtype": "portPrefix", "port": 0 },
+      {
+        "deltaTime": 0,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- System Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 188,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- CH Setup --------------------------------------------------"
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 121,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 0,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 32,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "programChange",
+        "value": 0
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 10,
+        "value": 64
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 7,
+        "value": 100
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 91,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 11,
+        "value": 127
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 1,
+        "value": 0
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 1
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 38,
+        "value": 0
+      },
+      {
+        "deltaTime": 4,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 2
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 64
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 0
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 6,
+        "value": 12
+      },
+      {
+        "deltaTime": 3,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "pitchBend",
+        "value": 8192
+      },
+      {
+        "deltaTime": 1,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 101,
+        "value": 127
+      },
+      {
+        "deltaTime": 0,
+        "type": "channel",
+        "channel": 15,
+        "subtype": "controller",
+        "controllerType": 100,
+        "value": 127
+      },
+      {
+        "deltaTime": 2,
+        "type": "meta",
+        "subtype": "text",
+        "text": "---- End of CH Setup --------------------------------------------------"
+      },
+      { "deltaTime": 30, "type": "meta", "subtype": "endOfTrack" }
+    ]
+  ]
+}
