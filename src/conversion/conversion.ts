@@ -1,10 +1,16 @@
 import { AnyEvent, MidiFile } from "../lib";
-import { MidiAnimationFile, TimeTrackingNoteOn } from "./types";
+import {
+  GeneralMidiNote,
+  MidiAnimationFile,
+  MidiAnimationObject,
+  MidiNote,
+  TimeTrackingNoteOn,
+} from "./types";
 
 const MEDIUM_NOTE_VALUE = 64;
 const MICROSECONDS_IN_MILLISECOND = 1_000;
 
-export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
+export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationObject {
   const ticksPerBeat = midi.header.ticksPerBeat;
 
   function _checkAndAddEdgeNoteNumber(noteNumber: number) {
@@ -17,9 +23,9 @@ export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
     }
   }
 
-  let midiAnimation: MidiAnimationFile = {
+  let midiAnimation: MidiAnimationObject = {
     name: "",
-    notes: [],
+    notes: new Map(),
     minNote: MEDIUM_NOTE_VALUE,
     maxNote: MEDIUM_NOTE_VALUE,
   };
@@ -40,9 +46,9 @@ export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
       timeWallTicks += event.deltaTime;
 
       // if event is not channel type, find setTempo and register it
-      if (event.type != "channel") {
+      if (event.type !== "channel") {
         // support Midi files of types 0, 1 and 2
-        if (event.type == "meta" && event.subtype == "setTempo") {
+        if (event.type === "meta" && event.subtype === "setTempo") {
           microsecondsPerBeat = event.microsecondsPerBeat;
         } else {
           continue;
@@ -50,7 +56,7 @@ export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
       }
 
       // ignore events with any subtype except noteOn and noteOff
-      if (event.subtype != "noteOn" && event.subtype != "noteOff") {
+      if (event.subtype !== "noteOn" && event.subtype !== "noteOff") {
         continue;
       }
 
@@ -79,12 +85,23 @@ export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
             const millisecondsPerTick =
               microsecondsPerBeat / ticksPerBeat / MICROSECONDS_IN_MILLISECOND;
 
-            midiAnimation.notes.push({
-              keyNum: event.noteNumber,
+            const newNote: GeneralMidiNote = {
               velocity: pairedNoteOnEvent.velocity,
               startTime: Math.round(startTimeTicks / millisecondsPerTick),
               duration: Math.round(durationTicks / millisecondsPerTick),
-            });
+            };
+
+            let existingNotesSameKey = midiAnimation.notes.get(
+              event.noteNumber
+            );
+
+            if (existingNotesSameKey) {
+              existingNotesSameKey.push(newNote);
+            } else {
+              existingNotesSameKey = [newNote];
+            }
+
+            midiAnimation.notes.set(event.noteNumber, existingNotesSameKey);
           }
 
           // remove paired noteOn
@@ -98,8 +115,22 @@ export function relativeToAbsoluteNotes(midi: MidiFile): MidiAnimationFile {
     }
   }
 
-  // sort notes by start time ascending
-  midiAnimation.notes.sort((a, b) => a.startTime - b.startTime);
-
   return midiAnimation;
+}
+
+export function midiAnimationObjectToFile(
+  midiAnimObj: MidiAnimationObject
+): MidiAnimationFile {
+  let midiAnimFile: MidiAnimationFile = {
+    name: midiAnimObj.name,
+    notes: [] as MidiNote[],
+    minNote: midiAnimObj.minNote,
+    maxNote: midiAnimObj.maxNote,
+  };
+
+  midiAnimObj.notes.forEach((notes, keyNum) =>
+    notes.forEach((note) => midiAnimFile.notes.push({ keyNum, ...note }))
+  );
+
+  return midiAnimFile;
 }

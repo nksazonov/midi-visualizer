@@ -1,7 +1,10 @@
 import fs from "fs";
 import path from "path";
 import { read } from "../lib";
-import { relativeToAbsoluteNotes } from "./conversion";
+import {
+  midiAnimationObjectToFile,
+  relativeToAbsoluteNotes,
+} from "./conversion";
 
 const currDir = process.cwd();
 
@@ -12,5 +15,5 @@ const animationMidi = relativeToAbsoluteNotes(midi);
 
 fs.writeFileSync(
   path.join(currDir, "./tracks.json"),
-  JSON.stringify(animationMidi)
+  JSON.stringify(midiAnimationObjectToFile(animationMidi))
 );
